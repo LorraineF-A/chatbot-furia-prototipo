@@ -5,7 +5,7 @@ O objetivo é proporcionar informações rápidas sobre jogadores, calendário d
   <br>
 
 ## Preview 
-
+![Funcionamento do Chatbot](./assets/chatbot-furia.gif)
 
   <br>
 
